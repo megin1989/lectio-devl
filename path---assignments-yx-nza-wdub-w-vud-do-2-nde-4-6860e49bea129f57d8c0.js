@@ -1,0 +1,2 @@
+webpackJsonp([0xe5ad9923ca8],{1059:function(n,a){n.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NDE4",title:"online banking",description:"<p>purposefully</p>"}},pathContext:{id:"YXNzaWdubWVudDo2NDE4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nde-4-6860e49bea129f57d8c0.js.map

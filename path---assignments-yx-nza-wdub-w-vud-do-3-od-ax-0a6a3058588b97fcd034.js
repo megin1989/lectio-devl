@@ -1,0 +1,2 @@
+webpackJsonp([0xa7a244103837],{1224:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODAx",title:"Microsoft Says It Has Received Fewer Data Requests From Law Enforcement",description:"<p>Describe</p>"}},pathContext:{id:"YXNzaWdubWVudDo3ODAx"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-od-ax-0a6a3058588b97fcd034.js.map

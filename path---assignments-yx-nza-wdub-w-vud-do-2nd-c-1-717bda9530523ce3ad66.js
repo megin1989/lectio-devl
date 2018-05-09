@@ -1,0 +1,2 @@
+webpackJsonp([0xfad31813bd85],{1086:function(a,p){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NDc1",title:"slide #tagas",description:'<p>slide share</p>\n<p>#trigg #droc#driping</p><p><br></p><p><span class="atwho-inserted" data-atwho-at-query="#">#tagging</span>‍&nbsp;</p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NDc1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2nd-c-1-717bda9530523ce3ad66.js.map

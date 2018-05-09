@@ -1,0 +1,2 @@
+webpackJsonp([90394644057093],{1163:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzI4",title:"Pancreatic cancer: Some blood pressure drugs put women at risk",description:"A new study reveals that certain blood pressure drugs are linked with a high risk of pancreatic cancer among postmenopausal women. "}},pathContext:{id:"YXNzaWdubWVudDo3NzI4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-i-4-0f4b9d2285335f317450.js.map

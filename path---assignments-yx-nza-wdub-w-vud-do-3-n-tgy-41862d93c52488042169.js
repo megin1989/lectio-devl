@@ -1,0 +1,2 @@
+webpackJsonp([0x9dab04f8ba00],{1098:function(e,d){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTgy",title:"Technology addiction - how should it be treated?",description:"Though the term 'Internet addiction disorder' was coined 20 years ago, professionals are still divided on whether excessive technology use can be considered an 'addiction.'"}},pathContext:{id:"YXNzaWdubWVudDo3NTgy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-n-tgy-41862d93c52488042169.js.map

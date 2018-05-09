@@ -1,0 +1,2 @@
+webpackJsonp([0x89a99a8128c8],{882:function(t,n){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDg5",title:"fgghklkjhll",description:"<p><b>https://19yw4b240vb03ws8qm25h366-wpengine.netdna-ssl.com/wp-content/uploads/graphql-or-bust.pdf</b><br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2MDg5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-m-dg-5-3ad3e82aa526128b23c0.js.map

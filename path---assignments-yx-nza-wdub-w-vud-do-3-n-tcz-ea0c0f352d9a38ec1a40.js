@@ -1,0 +1,2 @@
+webpackJsonp([0x66cdfe090c34],{1093:function(o,e){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTcz",title:"CredSSP Flaw in Remote Desktop Protocol Affects All Versions of Windows",description:"<p>CredSSP vulnerability in Microsoft Remote Desktop Protocol (RDP) affects all versions of windows and allows hackers to steal data and run malicious code.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NTcz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-n-tcz-ea0c0f352d9a38ec1a40.js.map

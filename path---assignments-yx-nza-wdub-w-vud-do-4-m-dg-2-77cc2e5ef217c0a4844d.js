@@ -1,0 +1,2 @@
+webpackJsonp([18931194144809],{1288:function(a,p){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDg2",title:"Large size pdf",description:'<p>Large size pdf <span class="atwho-inserted" data-atwho-at-query="@"><span id="4">@Jon Snow</span></span>‍&nbsp;</p><p><br></p>'}},pathContext:{id:"YXNzaWdubWVudDo4MDg2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-dg-2-77cc2e5ef217c0a4844d.js.map

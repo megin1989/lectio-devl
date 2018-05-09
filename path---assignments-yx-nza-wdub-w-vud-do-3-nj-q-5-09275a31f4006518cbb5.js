@@ -1,0 +1,2 @@
+webpackJsonp([0x61fe8d2de48f],{1120:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjQ5",title:"Cholesterol deposits in the eyes: Causes and how to get rid of them",description:"Cholesterol can deposit around the eyes and form fatty, yellow lumps. Learn about the causes, symptoms, and treatments for cholesterol deposits here."}},pathContext:{id:"YXNzaWdubWVudDo3NjQ5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-q-5-09275a31f4006518cbb5.js.map

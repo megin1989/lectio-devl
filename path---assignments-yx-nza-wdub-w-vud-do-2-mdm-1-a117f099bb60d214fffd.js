@@ -1,0 +1,2 @@
+webpackJsonp([0x6d85ede99f15],{926:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDM1",title:"http://www.axmag.com/download/pdfurl-guide.pdf",description:"http://www.axmag.com/download/pdfurl-guide.pdf"}},pathContext:{id:"YXNzaWdubWVudDo2MDM1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mdm-1-a117f099bb60d214fffd.js.map

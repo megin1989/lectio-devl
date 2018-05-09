@@ -1,0 +1,2 @@
+webpackJsonp([0x8237a61352bc],{1118:function(o,e){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjQ1",title:"The health benefits of popular foods",description:"If you're wondering what foods you should be including in your diet, look no further. We cover an A to Z of popular healthy food items.\n\n"}},pathContext:{id:"YXNzaWdubWVudDo3NjQ1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-q-1-5d9daa3b508f6196a947.js.map

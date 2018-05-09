@@ -1,0 +1,2 @@
+webpackJsonp([0xbd78821809f9],{1282:function(a,i){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTY4",title:"Easy Dialogs with #Angular Material",description:"<p>Building modals and dialogs isn’t easy – if we do it ourselves. #Angular Material comes with a powerful dialog service that makes it very easy to create custom dialogs in our own applications. Let’s take a look!</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo3OTY4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-oty-4-70e5bc26bef87cad07b4.js.map

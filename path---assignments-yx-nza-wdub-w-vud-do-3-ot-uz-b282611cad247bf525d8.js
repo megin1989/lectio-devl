@@ -1,0 +1,2 @@
+webpackJsonp([0x7c0e95c1c9de],{1265:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTUz",title:"A GUI for editing and testing GraphQL queries and mutations",description:"<p>A GUI for editing and testing GraphQL queries and mutations<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTUz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ot-uz-b282611cad247bf525d8.js.map

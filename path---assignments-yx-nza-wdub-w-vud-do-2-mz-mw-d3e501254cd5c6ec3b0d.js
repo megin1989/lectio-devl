@@ -1,0 +1,2 @@
+webpackJsonp([0xb76afa4190df],{1037:function(e,n){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MzMw",title:"Health IT Marketing and PR Conference 2018 Wednesday Pre-Conference Workshops",description:"<p>ytrt<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2MzMw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mz-mw-d3e501254cd5c6ec3b0d.js.map

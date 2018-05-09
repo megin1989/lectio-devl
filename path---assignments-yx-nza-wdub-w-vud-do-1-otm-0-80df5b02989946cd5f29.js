@@ -1,0 +1,2 @@
+webpackJsonp([0xfdefc05c4e6a],{872:function(e,d){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTM0",title:"#Technology Trends",description:"#Technology Trends"}},pathContext:{id:"YXNzaWdubWVudDo1OTM0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-otm-0-80df5b02989946cd5f29.js.map

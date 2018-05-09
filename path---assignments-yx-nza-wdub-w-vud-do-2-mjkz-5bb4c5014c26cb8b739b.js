@@ -1,0 +1,2 @@
+webpackJsonp([0x5e1d8ed33fc4],{987:function(d,o){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo2Mjkz",title:"Google AdWords Benchmarks for YOUR Industry [Updated!] | WordStream",description:"<div>Home : Blog : Google AdWords Benchmarks for YOUR Industry [Updated!]</div><div>Google AdWords Benchmarks for YOUR Industry [Updated!]</div>"}},pathContext:{id:"YXNzaWdubWVudDo2Mjkz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mjkz-5bb4c5014c26cb8b739b.js.map

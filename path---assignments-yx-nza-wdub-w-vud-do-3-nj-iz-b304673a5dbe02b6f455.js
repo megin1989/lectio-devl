@@ -1,0 +1,2 @@
+webpackJsonp([25419639684924],{1112:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjIz",title:"http://www.africau.edu/images/default/sample.pdf",description:"http://www.africau.edu/images/default/sample.pdf"}},pathContext:{id:"YXNzaWdubWVudDo3NjIz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-iz-b304673a5dbe02b6f455.js.map

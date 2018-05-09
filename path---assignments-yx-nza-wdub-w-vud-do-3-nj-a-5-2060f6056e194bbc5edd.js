@@ -1,0 +1,2 @@
+webpackJsonp([0x7166acc1d6be],{1104:function(e,i){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjA5",title:"What is Node.js?",description:"<p>Node.js is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine).\nNode.js was developed by Ryan Dahl in 2009 and its latest version is v0.10.36. The definition\nof Node.js as supplied by its official documentation is as follows:<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NjA5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-a-5-2060f6056e194bbc5edd.js.map

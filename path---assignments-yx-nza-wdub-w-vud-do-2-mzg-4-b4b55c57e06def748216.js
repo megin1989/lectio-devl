@@ -1,0 +1,2 @@
+webpackJsonp([0x6b6fdc231ce1],{1051:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2Mzg4",title:"7 Best Google Analytics Articles | Digital Marketer",description:'<p>We\'ve rounded up some of the best Google Analytics articles available across the World Wide Web. <span class="atwho-inserted" data-atwho-at-query="@doni"><span id="0">@Donitta John</span></span>‍&nbsp;</p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDo2Mzg4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mzg-4-b4b55c57e06def748216.js.map

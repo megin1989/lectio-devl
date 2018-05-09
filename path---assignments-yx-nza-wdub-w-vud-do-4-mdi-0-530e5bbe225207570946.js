@@ -1,0 +1,2 @@
+webpackJsonp([31586078229488],{1321:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDI0",title:"Acupuncture: How it works, uses, benefits, and risks",description:"Acupuncture is a complementary treatment. Needles are inserted at specific points on the body to treat conditions such as migraine and back pain."}},pathContext:{id:"YXNzaWdubWVudDo4MDI0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mdi-0-530e5bbe225207570946.js.map

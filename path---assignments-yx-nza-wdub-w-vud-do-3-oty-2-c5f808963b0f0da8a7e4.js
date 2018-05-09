@@ -1,0 +1,2 @@
+webpackJsonp([0x8ae72b08a8af],{1281:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTY2",title:"GraphiQL | Apps | Electron",description:"<p>GraphiQL test - whther invalid url</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTY2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-oty-2-c5f808963b0f0da8a7e4.js.map

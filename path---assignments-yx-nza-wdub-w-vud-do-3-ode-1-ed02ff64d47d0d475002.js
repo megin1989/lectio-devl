@@ -1,0 +1,2 @@
+webpackJsonp([0xff81c923e74b],{1240:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODE1",title:"Diabetes: The differences between types 1 and 2",description:"There are important differences between diabetes type 1 and type 2. Find out what distinguishes each type, as well as the differing causes and treatments."}},pathContext:{id:"YXNzaWdubWVudDo3ODE1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ode-1-ed02ff64d47d0d475002.js.map

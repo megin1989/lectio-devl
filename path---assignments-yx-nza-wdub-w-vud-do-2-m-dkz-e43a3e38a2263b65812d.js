@@ -1,0 +1,2 @@
+webpackJsonp([0x9c4129de6669],{888:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MDkz",title:"Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website",description:"<p>GitHub website hit with the largest DDoS attack ever recorded, using memcached amplification DDoS attack.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2MDkz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-m-dkz-e43a3e38a2263b65812d.js.map

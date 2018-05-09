@@ -1,0 +1,2 @@
+webpackJsonp([37366495880581],{1168:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzM4",title:"Netspective Lectio",description:null}},pathContext:{id:"YXNzaWdubWVudDo3NzM4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-m-4-a60146f056b10d81e635.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8aaabe31b24f],{1350:function(a,e){a.exports={data:{allcampagin:{id:"12",namespace:"Netspective Opsfolio",contents:[]}},pathContext:{id:"12"}}}});
+//# sourceMappingURL=path---campaign-12-ddb0abd615ffa2fedbaa.js.map

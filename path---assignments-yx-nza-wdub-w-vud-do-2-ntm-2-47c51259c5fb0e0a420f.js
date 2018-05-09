@@ -1,0 +1,2 @@
+webpackJsonp([73396507270321],{1075:function(a,n){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTM2",title:"Word-based Malware Attack Doesn’t Use #Macros",description:"<p>Malicious e-mail attachments used in this campaign don’t display any warnings when opened and silently install malware. @Aahil Amaan‍ @Donitta John‍ @Jayakrishnan S‍ @Jon Snow‍ @Prathitha CB‍ @Thajunnisa Ajes‍ @Vinu C S‍&nbsp;</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo2NTM2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ntm-2-47c51259c5fb0e0a420f.js.map

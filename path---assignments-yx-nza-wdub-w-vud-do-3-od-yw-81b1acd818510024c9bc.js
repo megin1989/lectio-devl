@@ -1,0 +1,2 @@
+webpackJsonp([0xc48020dc5722],{1235:function(a,i){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODYw",title:"Sleep paralysis: What is it, and how can you cope with it?",description:"In sleep paralysis, your mind wakes up, but your body does not. You may also experience frightening hallucinations. What is this, and how can we cope?"}},pathContext:{id:"YXNzaWdubWVudDo3ODYw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-od-yw-81b1acd818510024c9bc.js.map

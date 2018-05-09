@@ -1,0 +1,2 @@
+webpackJsonp([0xfa3cfe709104],{1178:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzU5",title:"Pancreas divisum: Treatment, management, and diet",description:"What is pancreas divisum? Learn more here and find some of the best treatment options, in addition to management tips and diet information."}},pathContext:{id:"YXNzaWdubWVudDo3NzU5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-u-5-22cd8ffc7e31237730d6.js.map

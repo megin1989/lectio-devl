@@ -1,0 +1,2 @@
+webpackJsonp([0x975fc11482d6],{1110:function(d,e){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjI5",title:"https://www.rhodeshouse.ox.ac.uk/media/1002/sample-pdf-file.pdf",description:"<p>https://www.rhodeshouse.ox.ac.uk/media/1002/sample-pdf-file.pdf<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NjI5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-i-5-8cdd44d517826260e42a.js.map

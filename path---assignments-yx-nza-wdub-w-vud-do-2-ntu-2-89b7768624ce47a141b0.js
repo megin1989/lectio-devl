@@ -1,0 +1,2 @@
+webpackJsonp([25333596916380],{1079:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTU2",title:"Home - BHA 2018",description:'<p>hello <span class="atwho-inserted" data-atwho-at-query="@"><span id="2">@Donitta John</span></span>‍ <span class="atwho-inserted" data-atwho-at-query="#cy">#Cybersecurity</span>‍ <span class="atwho-query">@</span></p><p></p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDo2NTU2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ntu-2-89b7768624ce47a141b0.js.map

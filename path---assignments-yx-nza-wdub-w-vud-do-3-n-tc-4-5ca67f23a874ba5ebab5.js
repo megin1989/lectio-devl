@@ -1,0 +1,2 @@
+webpackJsonp([0x852ddea571fd],{1091:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTc4",title:"Mutations | Apollo Client",description:"<p>Learn how to update data with Mutation components<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NTc4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-n-tc-4-5ca67f23a874ba5ebab5.js.map

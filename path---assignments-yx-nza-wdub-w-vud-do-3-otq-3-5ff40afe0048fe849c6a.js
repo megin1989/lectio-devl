@@ -1,0 +1,2 @@
+webpackJsonp([0xe10ed37da731],{1277:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTQ3",title:"Polydactyly: Symptoms, causes, and treatments",description:"<p>qwert&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTQ3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-otq-3-5ff40afe0048fe849c6a.js.map

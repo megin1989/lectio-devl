@@ -1,0 +1,2 @@
+webpackJsonp([98423389454873],{1064:function(a,s){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NDU4",title:"Abacus how to use",description:'<p>Abacus how to use</p>\n<p></p>\n<p>#hashtag&nbsp; <span class="atwho-inserted" data-atwho-at-query="#">#asd</span>‍ <span class="atwho-query">#qwerty</span></p>\n<p></p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NDU4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ndu-4-2e5af32427cf4939333b.js.map

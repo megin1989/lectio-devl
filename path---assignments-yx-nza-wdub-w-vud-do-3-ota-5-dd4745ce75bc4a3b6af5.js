@@ -1,0 +1,2 @@
+webpackJsonp([0x9f10298207a0],{1268:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTA5",title:"Posting PDF Files on Facebook",description:"<p>Just a try</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTA5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ota-5-dd4745ce75bc4a3b6af5.js.map

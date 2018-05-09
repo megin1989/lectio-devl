@@ -1,0 +1,2 @@
+webpackJsonp([0xe466ccc3867a],{1024:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MzA3",title:"Trojanized BitTorrent Software Update Hijacked 400,000 PCs Last Week",description:"<p>Trojanized Version of Popular MediaGet BitTorrent Client Update Was Responsible For Dofoil Malware Outbreak That Infected Over 400,000 Computers Last Week With Cryptocurrency Mining Malware In Just 12 Hours.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2MzA3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mz-a-3-ff9dd81ec3d95e367024.js.map

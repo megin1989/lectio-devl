@@ -1,0 +1,2 @@
+webpackJsonp([0x928406c98bc6],{1309:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDIy",title:"Acupuncture: How it works, uses, benefits, and risks",description:"<p>Directly through lectio</p>"}},pathContext:{id:"YXNzaWdubWVudDo4MDIy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-md-iy-cb7ebde25e14f48e7c3d.js.map

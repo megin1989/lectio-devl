@@ -1,0 +1,2 @@
+webpackJsonp([89880571224665],{1300:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTcy",title:"#Angular",description:"<p>Find all of our high-quality #Angular 2 articles that cover tips, tricks and best practices – always up to date!</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo4MTcy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-tcy-165ea33c5caec9823838.js.map

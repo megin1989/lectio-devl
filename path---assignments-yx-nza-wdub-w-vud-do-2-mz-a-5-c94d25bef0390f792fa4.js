@@ -1,0 +1,2 @@
+webpackJsonp([7467477946597],{1025:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MzA5",title:"Cyber security",description:"<p>Cyber security</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo2MzA5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mz-a-5-c94d25bef0390f792fa4.js.map

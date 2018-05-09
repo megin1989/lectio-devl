@@ -1,0 +1,2 @@
+webpackJsonp([0x930b64d1973f],{1257:function(a,o){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTEz",title:"How Looming Privacy Regulations May Strengthen Facebook and Google",description:"Facebook and Google are dealing with a privacy backlash and new European rules on data collection. The rules, though, may not be as damaging to the companies as they appear."}},pathContext:{id:"YXNzaWdubWVudDo3OTEz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ot-ez-07d6649dcc8c08855d87.js.map

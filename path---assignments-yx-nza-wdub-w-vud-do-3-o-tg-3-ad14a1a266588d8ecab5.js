@@ -1,0 +1,2 @@
+webpackJsonp([0x8f93ec38364e],{1215:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTg3",title:"Warm hands: 9 causes and treatment",description:"<p>Direct from lectio</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTg3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tg-3-ad14a1a266588d8ecab5.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8702274d85b3],{1293:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDk2",title:"Artificial intelligence",description:'<p>Artificial intelligence #Analytics #bottle <span class="atwho-inserted" data-atwho-at-query="@"><span id="4">@Jon Snow</span></span>‍&nbsp;<span class="atwho-inserted" data-atwho-at-query="@"><span id="6">@Robin Stark</span></span>‍&nbsp;</p><p></p><p><br></p>'}},pathContext:{id:"YXNzaWdubWVudDo4MDk2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-dk-2-33188a57cebafdb7b24f.js.map

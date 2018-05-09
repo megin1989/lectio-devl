@@ -1,0 +1,2 @@
+webpackJsonp([0xc2c1c87dfe9],{860:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTgz",title:"Database testing – Wikipedia",description:"<p>ddfdfad</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo1OTgz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-o-tgz-1b9274f5cbc5aac697e8.js.map

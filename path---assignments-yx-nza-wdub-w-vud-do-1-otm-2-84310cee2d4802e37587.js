@@ -1,0 +1,2 @@
+webpackJsonp([0x649818ed4a73],{873:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTM2",title:"Theories Outrun Reliable Facts in Florida Bridge Collapse",description:'<p>For now, the Florida bridge collapse has many possible causes <span class="atwho-query">#engineering</span><br></p>'}},pathContext:{id:"YXNzaWdubWVudDo1OTM2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-otm-2-84310cee2d4802e37587.js.map

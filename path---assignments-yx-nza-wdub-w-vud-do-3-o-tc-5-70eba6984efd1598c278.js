@@ -1,0 +1,2 @@
+webpackJsonp([0x9a4615f2fa44],{1212:function(t,n){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTc5",title:"Flu shot ingredients: What they contain and why",description:"<p>Direct submission through lectio - Flu shot ingredients: What they contain and why<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTc5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tc-5-70eba6984efd1598c278.js.map

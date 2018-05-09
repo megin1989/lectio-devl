@@ -1,0 +1,2 @@
+webpackJsonp([0x74ab6c43499a],{1258:function(s,t){s.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTIw",title:"Could eating fish stave off Parkinson's disease?",description:"<p>test purpose</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTIw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ot-iw-32af51d0f5fa5896354f.js.map

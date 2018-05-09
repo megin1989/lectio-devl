@@ -1,0 +1,2 @@
+webpackJsonp([2829912448608],{1108:function(t,p){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjI1",title:"http://gahp.net/wp-content/uploads/2017/09/sample.pdf",description:"<p>http://gahp.net/wp-content/uploads/2017/09/sample.pdf<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NjI1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-i-1-e45a6a88086e1499a2e3.js.map

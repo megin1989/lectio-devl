@@ -1,0 +1,2 @@
+webpackJsonp([79300050971625],{1219:function(e,s){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTk1",title:"6 Best Practices & Pro Tips when using #Angular CLI – Tomas Trajan – #Medium",description:"#Learn how to organize your modules, use aliases, use sass, production build, testing with Headless Chrome and generate nice changelogs!"}},pathContext:{id:"YXNzaWdubWVudDo3OTk1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tk-1-1470880025e7d240070e.js.map

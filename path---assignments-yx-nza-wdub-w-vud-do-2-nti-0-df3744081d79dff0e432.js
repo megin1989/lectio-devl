@@ -1,0 +1,2 @@
+webpackJsonp([0xab7d85ffce6f],{1073:function(a,s){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTI0",title:"Build a Beautiful CryptoCurrency App using Ionic 3 #macmac",description:'<p>dsfdfdsfdf&nbsp;&nbsp; <span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Aahil Amaan</span></span>‍ <span class="atwho-inserted" data-atwho-at-query="#ma">#macmac1</span>‍&nbsp;</p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NTI0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nti-0-df3744081d79dff0e432.js.map

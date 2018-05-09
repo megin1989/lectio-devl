@@ -1,0 +1,2 @@
+webpackJsonp([0x83acad3016d0],{1207:function(o,a){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODk4",title:"Opinion",description:"I know all about how people who use SNAP benefits are humiliated. A Trump proposal will make it worse."}},pathContext:{id:"YXNzaWdubWVudDo3ODk4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-dk-4-c3c392d0dcf39448b227.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x961dac4c17de],{1070:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTYw",title:"The Artificial Intelligence RUSH #Cybersecurity",description:'<p><b><a href="https://www.slideshare.net/jeanbaptiste.dumont/the-ai-rush" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;The Artificial Intelligence RUSH</a></b></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NTYw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nt-yw-92bf225ad6f847d4498d.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x68dde0ff7b5c],{1325:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDU0",title:"Dark chocolate may boost vision",description:"Researchers have set their sights on dark chocolate as a potential vision booster, after finding that the delicious treat may improve eyesight."}},pathContext:{id:"YXNzaWdubWVudDo4MDU0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mdu-0-5153f92e153323ba736e.js.map

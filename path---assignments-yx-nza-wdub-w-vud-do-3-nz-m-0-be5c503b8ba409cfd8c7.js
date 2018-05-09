@@ -1,0 +1,2 @@
+webpackJsonp([0xba9259cbc3e3],{1166:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzM0",title:"JPMorgan, Goldman Sachs, Others Test Blockchain-Based Debt Issuance",description:" "}},pathContext:{id:"YXNzaWdubWVudDo3NzM0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-m-0-be5c503b8ba409cfd8c7.js.map

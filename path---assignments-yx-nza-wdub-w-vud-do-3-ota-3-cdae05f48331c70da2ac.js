@@ -1,0 +1,2 @@
+webpackJsonp([0xd14023d67a8f],{1267:function(a,o){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTA3",title:"Posting PDF Files on Facebook",description:"You can attach one to a post or a status update, but only if you are using a certain type of Facebook page."}},pathContext:{id:"YXNzaWdubWVudDo3OTA3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ota-3-cdae05f48331c70da2ac.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x6bfaa5e0c0f8],{1083:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTY3",title:"box proveit test case",description:"<p>box proveit test case<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2NTY3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nty-3-0d5e5c98b34f6d797d7e.js.map

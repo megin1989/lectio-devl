@@ -1,0 +1,2 @@
+webpackJsonp([0x69268b91002e],{1041:function(e,o){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MzQw",title:"Google Bans Cryptocurrency #Mining Extensions From Chrome Web Store",description:"To prevent cryptojacking attacks, Google has banned all cryptocurrency #Mining related browser extensions from the Chrome Web Store"}},pathContext:{id:"YXNzaWdubWVudDo2MzQw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mz-qw-113343ca0e6dfc1cba88.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xe28a919ff731],{1063:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NDQ0",title:"test proveit assignment",description:'<p>test <span class="atwho-inserted" data-atwho-at-query="@asho"><span id="0">@Ashok Kumar</span></span>‍&nbsp;</p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDo2NDQ0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ndq-0-7992b5039b3aafc730dd.js.map

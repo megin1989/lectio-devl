@@ -1,0 +1,2 @@
+webpackJsonp([0xf0d4d1e5e7b0],{1126:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjY0",title:"https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf",description:"https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf"}},pathContext:{id:"YXNzaWdubWVudDo3NjY0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-y-0-d49b1e8617b0043581a5.js.map

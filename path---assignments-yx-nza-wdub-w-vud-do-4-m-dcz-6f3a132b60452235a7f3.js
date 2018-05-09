@@ -1,0 +1,2 @@
+webpackJsonp([0x82d2c3926957],{1287:function(e,o){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDcz",title:"GraphQL: A query language for APIs.",description:"GraphQL provides a complete description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools."}},pathContext:{id:"YXNzaWdubWVudDo4MDcz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-dcz-6f3a132b60452235a7f3.js.map

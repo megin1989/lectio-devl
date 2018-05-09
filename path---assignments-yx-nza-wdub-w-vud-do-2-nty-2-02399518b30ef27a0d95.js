@@ -1,0 +1,2 @@
+webpackJsonp([0x9f1475479a40],{1082:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTY2",title:"Home – BHA 2018",description:"dgdf<p><br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2NTY2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nty-2-02399518b30ef27a0d95.js.map

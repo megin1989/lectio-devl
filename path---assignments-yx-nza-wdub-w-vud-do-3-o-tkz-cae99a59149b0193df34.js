@@ -1,0 +1,2 @@
+webpackJsonp([70685322008481],{1223:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTkz",title:"Letter from the Editor: Winds of change",description:"The winds of change are blowing at Medical News Today. Read Managing Editor Marie Ellis' monthly update to learn about what's on the horizon."}},pathContext:{id:"YXNzaWdubWVudDo3OTkz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tkz-cae99a59149b0193df34.js.map

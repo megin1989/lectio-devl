@@ -1,0 +1,2 @@
+webpackJsonp([25787060661784],{1342:function(a,n){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTE4",title:"angular npm packages",description:"<p>install npm packages</p>"}},pathContext:{id:"YXNzaWdubWVudDo4MTE4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mte-4-304e393817973a763bba.js.map

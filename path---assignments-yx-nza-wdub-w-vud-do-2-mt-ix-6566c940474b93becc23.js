@@ -1,0 +1,2 @@
+webpackJsonp([0x65df07a03f65],{992:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MTIx",title:"hgkl;",description:"hgggk"}},pathContext:{id:"YXNzaWdubWVudDo2MTIx"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mt-ix-6566c940474b93becc23.js.map

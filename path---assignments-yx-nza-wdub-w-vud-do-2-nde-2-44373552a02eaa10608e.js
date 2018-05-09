@@ -1,0 +1,2 @@
+webpackJsonp([0xe23539809142],{1058:function(a,i){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NDE2",title:"UK firms failing to make financial plans for cyber attacks",description:"<p>UK firms failing to make financial plans for cyber attacks...............................<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2NDE2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nde-2-44373552a02eaa10608e.js.map

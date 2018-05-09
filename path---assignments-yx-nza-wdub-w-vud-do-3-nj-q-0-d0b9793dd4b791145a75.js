@@ -1,0 +1,2 @@
+webpackJsonp([0x7c31f0552647],{1117:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjQ0",title:"Nut lovers rejoice: Your favorite snack protects your heart",description:"Nuts are widely considered beneficial to the heart. A new study dives deeper into the specifics and finds out exactly what nuts can do for our tickers."}},pathContext:{id:"YXNzaWdubWVudDo3NjQ0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-q-0-d0b9793dd4b791145a75.js.map

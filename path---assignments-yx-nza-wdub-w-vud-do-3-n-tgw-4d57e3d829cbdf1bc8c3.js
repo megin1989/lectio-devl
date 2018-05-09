@@ -1,0 +1,2 @@
+webpackJsonp([0xff0e5684e05d],{1097:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTgw",title:"Just one extra drink could take years off your life",description:"The myth that moderate drinking is good for your heart takes a blow from this new study, which suggests the United States alcohol guidelines are too high. "}},pathContext:{id:"YXNzaWdubWVudDo3NTgw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-n-tgw-4d57e3d829cbdf1bc8c3.js.map

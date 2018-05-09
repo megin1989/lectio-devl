@@ -1,0 +1,2 @@
+webpackJsonp([0x8f3c5ffeb7f6],{1174:function(i,o){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzQw",title:"Nokia 7 Plus, Nokia 8 Sirocco Pre-Orders Now Open in India",description:" "}},pathContext:{id:"YXNzaWdubWVudDo3NzQw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-qw-99af05b3793cdb54ef01.js.map

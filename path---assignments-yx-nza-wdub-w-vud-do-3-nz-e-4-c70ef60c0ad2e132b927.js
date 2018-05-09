@@ -1,0 +1,2 @@
+webpackJsonp([0xd698e6541cac],{1158:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzE4",title:"applications",description:"The applications key contains keys that are specific to a particular host application."}},pathContext:{id:"YXNzaWdubWVudDo3NzE4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-e-4-c70ef60c0ad2e132b927.js.map

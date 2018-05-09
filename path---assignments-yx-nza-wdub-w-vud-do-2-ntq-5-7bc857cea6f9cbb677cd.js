@@ -1,0 +1,2 @@
+webpackJsonp([0xd88e75a9c459],{1077:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTQ5",title:"Documents | FedRAMP.gov",description:"<p>https://www.fedramp.gov/documents/<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2NTQ5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ntq-5-7bc857cea6f9cbb677cd.js.map

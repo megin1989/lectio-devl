@@ -1,0 +1,2 @@
+webpackJsonp([0xd0a90f6a2f39],{986:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo2Mjkx",title:"25 Ways to Increase Traffic to Your Website",description:"<p>test</p>"}},pathContext:{id:"YXNzaWdubWVudDo2Mjkx"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mjkx-40404fd93bc8e779e67a.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([67560800543194],{1107:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjEx",title:"Window setInterval() Method",description:"<p>hai</p>"}},pathContext:{id:"YXNzaWdubWVudDo3NjEx"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-ex-768ddc22e49ec9909e21.js.map

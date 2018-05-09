@@ -1,0 +1,2 @@
+webpackJsonp([0xf1e5d5bcc016],{1269:function(i,t){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTE2",title:"Gigaom",description:"<p>Artificial Intelligence (AI) is one of the hottest topics today with the ability to provide significant business value and technical capabilities. Yet…</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo3OTE2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ote-2-e19c134b500c1d1e1d2e.js.map

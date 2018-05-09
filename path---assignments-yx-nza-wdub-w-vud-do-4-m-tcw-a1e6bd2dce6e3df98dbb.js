@@ -1,0 +1,2 @@
+webpackJsonp([0xbdaf3f3feef8],{1299:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTcw",title:"Top 5 common health myths debunked",description:"Over time, a number of health myths have cropped up. Some of these are true, and some of them certainly aren't. Here, we debunk the most popular ones."}},pathContext:{id:"YXNzaWdubWVudDo4MTcw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-tcw-a1e6bd2dce6e3df98dbb.js.map

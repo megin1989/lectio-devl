@@ -1,0 +1,2 @@
+webpackJsonp([71884329440674],{1187:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3Nzg1",title:"Diabetes: Body fat percentage, not BMI, predicts risk",description:"A new study suggests that the standard body mass index cannot accurately predict someone's risk of developing type 2 diabetes or prediabetes."}},pathContext:{id:"YXNzaWdubWVudDo3Nzg1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nzg-1-955c3cb496c919fc3fc5.js.map

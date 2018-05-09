@@ -1,0 +1,2 @@
+webpackJsonp([0x971878c6fb0e],{1081:function(d,o){d.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTY0",title:"2017 holiday survey",description:"<p>good survey</p>"}},pathContext:{id:"YXNzaWdubWVudDo2NTY0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nty-0-3234e93792bbfb1b3f48.js.map

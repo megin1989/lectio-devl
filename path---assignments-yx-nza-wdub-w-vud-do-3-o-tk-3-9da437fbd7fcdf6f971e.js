@@ -1,0 +1,2 @@
+webpackJsonp([0xa81126d0fe8b],{1220:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTk3",title:"Baking soda: A safe, easy treatment for arthritis?",description:"Baking soda is a kitchen staple and go-to home remedy for many conditions. But how and why might it help to treat inflammatory diseases such as arthritis?"}},pathContext:{id:"YXNzaWdubWVudDo3OTk3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tk-3-9da437fbd7fcdf6f971e.js.map

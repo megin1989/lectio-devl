@@ -1,0 +1,2 @@
+webpackJsonp([0xb6c2b1e42410],{1043:function(s,e){s.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MzU0",title:"Apple Plans to Replace Intel Chips in Macs with its Custom Designed CPUs",description:"<p>Apple Plans to Replace Intel Processors in Macs With its Custom Designed ARM Chips, Code-Name ‘Kalamata,’ as early as 2020<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo2MzU0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mz-u-0-25e27fa6a63d05b3cb38.js.map

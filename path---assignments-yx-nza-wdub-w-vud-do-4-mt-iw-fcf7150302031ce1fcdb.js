@@ -1,0 +1,2 @@
+webpackJsonp([0xb0cc5da82fad],{1336:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTIw",title:"HttpClient",description:"<p>add http client&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDo4MTIw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mt-iw-fcf7150302031ce1fcdb.js.map

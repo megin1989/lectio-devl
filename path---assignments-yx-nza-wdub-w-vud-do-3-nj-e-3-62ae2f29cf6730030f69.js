@@ -1,0 +1,2 @@
+webpackJsonp([0xb0f29311371b],{1105:function(i,n){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjE3",title:"Continuous Diagnostics and Mitigation (CDM) from the Frontlines",description:"This eBook contains insights from conversations with government program participants and cybersecurity industry leaders who have first-hand experience dealing with"}},pathContext:{id:"YXNzaWdubWVudDo3NjE3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-e-3-62ae2f29cf6730030f69.js.map

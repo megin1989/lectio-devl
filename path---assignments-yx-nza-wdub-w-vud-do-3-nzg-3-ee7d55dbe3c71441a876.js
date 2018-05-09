@@ -1,0 +1,2 @@
+webpackJsonp([0xcda3cb9f5b01],{1188:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3Nzg3",title:"Qray CFL Energy Saving Lamps - Made in Kuwait Qray.com.kw",description:"<p>test</p>"}},pathContext:{id:"YXNzaWdubWVudDo3Nzg3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nzg-3-ee7d55dbe3c71441a876.js.map

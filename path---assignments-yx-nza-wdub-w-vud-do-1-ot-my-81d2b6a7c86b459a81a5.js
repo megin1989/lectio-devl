@@ -1,0 +1,2 @@
+webpackJsonp([0x88cf03d5ba36],{867:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTMy",title:"What is security testing",description:"What is security testing"}},pathContext:{id:"YXNzaWdubWVudDo1OTMy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-ot-my-81d2b6a7c86b459a81a5.js.map

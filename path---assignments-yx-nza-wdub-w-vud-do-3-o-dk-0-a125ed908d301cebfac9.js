@@ -1,0 +1,2 @@
+webpackJsonp([62887167881703],{1205:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODk0",title:"This Start-Up Says It Wants to Fight Poverty. A Food Stamp Giant Is Blocking It.",description:"<p>url&nbsp; with out clean on exit</p>"}},pathContext:{id:"YXNzaWdubWVudDo3ODk0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-dk-0-a125ed908d301cebfac9.js.map

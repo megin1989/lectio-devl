@@ -1,0 +1,2 @@
+webpackJsonp([0x78b26e34a17e],{1279:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTU3",title:"Tryit Editor v3.5 - Show Node.js",description:"<p>ss</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTU3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-otu-3-36720a6f418c30ab4823.js.map

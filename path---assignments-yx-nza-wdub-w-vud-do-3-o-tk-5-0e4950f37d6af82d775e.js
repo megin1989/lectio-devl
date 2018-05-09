@@ -1,0 +1,2 @@
+webpackJsonp([8440249517659],{1221:function(i,t){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTk5",title:"Sinus arrhythmia: Definition, signs, and diagnosis",description:"Sinus arrhythmias commonly cause irregular heartbeats in children. In this article, we look at the symptoms, types, and outlook for sinus arrhythmia."}},pathContext:{id:"YXNzaWdubWVudDo3OTk5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tk-5-0e4950f37d6af82d775e.js.map

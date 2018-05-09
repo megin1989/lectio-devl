@@ -1,0 +1,2 @@
+webpackJsonp([66203119568386],{1216:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTg5",title:"How to check your pulse",description:"<p>Direct from lectio</p>"}},pathContext:{id:"YXNzaWdubWVudDo3OTg5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tg-5-d81d19c171dfad7ca682.js.map

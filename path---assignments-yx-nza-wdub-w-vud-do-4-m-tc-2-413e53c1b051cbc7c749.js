@@ -1,0 +1,2 @@
+webpackJsonp([33530750985234],{1297:function(p,n){p.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTc2",title:"Google Announces Investment Programme for Startups in the Assistant Space",description:'<p><br></p><p><br></p><p><br></p><p><span class="atwho-inserted" data-atwho-at-query="@"><span id="1">@Binin Regi</span></span>‍&nbsp;</p><p></p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDo4MTc2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-tc-2-413e53c1b051cbc7c749.js.map

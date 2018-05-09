@@ -1,0 +1,2 @@
+webpackJsonp([0xa81157af9d17],{1076:function(a,p){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTM4",title:"New 4G LTE Network Attacks Let Hackers Spy, Track, Spoof and Spam",description:'<p><span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Aahil Amaan</span></span>‍ <span class="atwho-inserted" data-atwho-at-query="@"><span id="2">@Jaino Mathew</span></span>‍&nbsp;&nbsp;</p><p></p>\n<p></p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NTM4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-ntm-4-39453872bc3c960c0815.js.map

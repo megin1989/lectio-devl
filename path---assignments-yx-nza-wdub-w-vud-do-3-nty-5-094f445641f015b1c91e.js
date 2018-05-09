@@ -1,0 +1,2 @@
+webpackJsonp([0x6fdc16355177],{1152:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTY5",title:"Mobile Content Management - MCM Software",description:"<p>Mobile Content Management - MCM Software<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NTY5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nty-5-094f445641f015b1c91e.js.map

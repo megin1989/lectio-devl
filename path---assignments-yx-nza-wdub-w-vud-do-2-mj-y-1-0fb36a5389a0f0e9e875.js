@@ -1,0 +1,2 @@
+webpackJsonp([97894784211539],{968:function(p,i){p.exports={data:{assignments:{id:"YXNzaWdubWVudDo2MjY1",title:"iop",description:"<p>poiioupp</p>"}},pathContext:{id:"YXNzaWdubWVudDo2MjY1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-mj-y-1-0fb36a5389a0f0e9e875.js.map

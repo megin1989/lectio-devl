@@ -1,0 +1,2 @@
+webpackJsonp([61791872141908],{1338:function(n,t){n.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTQy",title:"#Angular router",description:"The Angular&nbsp;Router&nbsp;enables navigation from one&nbsp;view&nbsp;to the next as users perform application tasks."}},pathContext:{id:"YXNzaWdubWVudDo4MTQy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mt-qy-651db861a8ef77c95336.js.map

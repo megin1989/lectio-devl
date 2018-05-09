@@ -1,0 +1,2 @@
+webpackJsonp([0xb99bc528eecd],{870:function(e,i){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTI2",title:"QR Code Bug in Apple iOS 11 Could Lead You to Malicious Sites",description:"<p>Vulnerability in Apple’s iOS 11 Camera QR Code Reader Could Lead You to Malicious Sites<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo1OTI2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-oti-2-1922eb5cc9e829f0e77e.js.map

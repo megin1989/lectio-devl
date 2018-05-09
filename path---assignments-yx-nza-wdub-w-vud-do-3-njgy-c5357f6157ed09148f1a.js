@@ -1,0 +1,2 @@
+webpackJsonp([56191171294344],{1139:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3Njgy",title:"New drug halves previously untreatable migraine attacks",description:"A new compound, called erenumab, was found to be successful in treating migraines for which other treatments had previously failed."}},pathContext:{id:"YXNzaWdubWVudDo3Njgy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-njgy-c5357f6157ed09148f1a.js.map

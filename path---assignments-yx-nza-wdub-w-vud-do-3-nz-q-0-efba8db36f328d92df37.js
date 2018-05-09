@@ -1,0 +1,2 @@
+webpackJsonp([19195172945229],{1171:function(i,t){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzQ0",title:"Vivo V9 Youth With 6.3-Inch FullView Display Launched in India",description:" "}},pathContext:{id:"YXNzaWdubWVudDo3NzQ0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-q-0-efba8db36f328d92df37.js.map

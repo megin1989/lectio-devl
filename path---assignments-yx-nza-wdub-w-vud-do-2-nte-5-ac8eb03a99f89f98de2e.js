@@ -1,0 +1,2 @@
+webpackJsonp([57358243598188],{1072:function(a,n){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo2NTE5",title:"Angular 4 Animation Tutorial #yryr",description:'<p>Angular 4 Animation Tutorial <span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Aahil Amaan</span></span>‍&nbsp;</p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDo2NTE5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-2-nte-5-ac8eb03a99f89f98de2e.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x657cc022bd80],{1147:function(e,o){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NTU0",title:"Flaw in Popular Transmission BitTorrent Client Lets Hackers Control Your PC Remotely",description:"<p>A critical flaw in the widely used Transmission BitTorrent app allows hackers to remotely execute malicious code on and take control of users' computers.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NTU0"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-ntu-0-5e23d4b7ac86338a1f40.js.map

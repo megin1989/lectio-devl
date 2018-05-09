@@ -1,0 +1,2 @@
+webpackJsonp([27866456225702],{1246:function(o,d){o.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODM4",title:"Introducing React Apollo 2.1 – Apollo GraphQL",description:"A new render prop API, improved docs, and more!"}},pathContext:{id:"YXNzaWdubWVudDo3ODM4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-odm-4-a71e391479161c094d6d.js.map

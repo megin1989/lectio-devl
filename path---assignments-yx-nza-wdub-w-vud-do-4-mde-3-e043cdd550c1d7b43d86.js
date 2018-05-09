@@ -1,0 +1,2 @@
+webpackJsonp([0xba2daef22e41],{1320:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDE3",title:"A web animations deep dive with #Angular",description:"#Angular comes with a built-in animation system that lets us create powerful animations based on the Web Animations API. In this article we'll look at two differet approaches, namely imperative and declarative animations."}},pathContext:{id:"YXNzaWdubWVudDo4MDE3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mde-3-e043cdd550c1d7b43d86.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc8bc5910bbeb],{1218:function(a,o){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTgz",title:"Basophilia: Meaning, symptoms, and causes",description:"Learn about what causes basophilia, a condition in which the body produces too many basophils. We also look at symptoms, diagnosis, and treatment."}},pathContext:{id:"YXNzaWdubWVudDo3OTgz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tgz-a34aeacd689809c84ffa.js.map

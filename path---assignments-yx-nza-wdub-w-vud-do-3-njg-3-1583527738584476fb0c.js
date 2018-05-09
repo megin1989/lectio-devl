@@ -1,0 +1,2 @@
+webpackJsonp([0xd88403e35e12],{1137:function(t,s){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3Njg3",title:"LIVE updates, Latest headlines, Breaking news, Top stories, Trending topics – Firstpost",description:"<p>first post&nbsp;</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo3Njg3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-njg-3-1583527738584476fb0c.js.map

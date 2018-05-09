@@ -1,0 +1,2 @@
+webpackJsonp([97885262126012],{865:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTkz",title:"https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/pdf_open_parameters.pdf",description:"<p>https://www.adobe.com/content/dam/acom/en/devnet/acrobat/pdfs/pdf_open_parameters.pdf<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo1OTkz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-o-tkz-bdf0593a8664ca46b4b6.js.map

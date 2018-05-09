@@ -1,0 +1,2 @@
+webpackJsonp([0xb1a01dfb8642],{874:function(e,o){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTY5",title:"New 4G LTE Network Attacks Let Hackers Spy, Track, Spoof and Spam",description:"<p>Serious vulnerabilities discovered in 4G LTE protocol that could be exploited to spy on users’ phone calls and text messages, send fake emergency alerts, spoof location.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo1OTY5"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-oty-5-67f03610357a5f8e49e5.js.map

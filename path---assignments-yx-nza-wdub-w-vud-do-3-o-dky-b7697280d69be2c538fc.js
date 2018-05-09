@@ -1,0 +1,2 @@
+webpackJsonp([0x84c7e96764ce],{1209:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3ODky",title:"This Start-Up Says It Wants to Fight Poverty. A Food Stamp Giant Is Blocking It.",description:"<p>Purpose - copied form description - Propel, a start-up, was begun to bring convenience and new services to food stamp recipients. A big government contractor is getting in the way.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3ODky"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-dky-b7697280d69be2c538fc.js.map

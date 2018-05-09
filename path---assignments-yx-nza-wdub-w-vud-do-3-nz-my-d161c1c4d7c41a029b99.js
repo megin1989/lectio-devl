@@ -1,0 +1,2 @@
+webpackJsonp([0x8d57798352c8],{1170:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzMy",title:"Underwater GPS Inspired by Shrimp Eyes",description:"<p>Cameras that see light polarization patterns can provide a GPS substitute under the sea<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo3NzMy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-my-d161c1c4d7c41a029b99.js.map

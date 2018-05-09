@@ -1,0 +1,2 @@
+webpackJsonp([0xcbb3fe7259dd],{1328:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDY1",title:"Mediterranean diet increases 'good' gut bacteria",description:"In a study of monkeys, researchers found that a Mediterranean diet significantly increased levels of beneficial bacteria in the gut."}},pathContext:{id:"YXNzaWdubWVudDo4MDY1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mdy-1-b5c934fd49cc3461f05f.js.map

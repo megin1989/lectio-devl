@@ -1,0 +1,2 @@
+webpackJsonp([0x8be7502616e2],{1213:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTcw",title:"Medium – Read, write and share stories that matter",description:"<p>Welcome to Medium, a place to read, write, and interact with the stories that matter most to you. Every day, thousands of voices read, write, and share important stories on Medium. @Jaino Mathew‍ #Angular</p>\n"}},pathContext:{id:"YXNzaWdubWVudDo3OTcw"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tcw-92e916683d7f439ce71f.js.map

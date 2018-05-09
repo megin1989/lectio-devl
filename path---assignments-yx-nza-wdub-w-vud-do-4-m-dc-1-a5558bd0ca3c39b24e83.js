@@ -1,0 +1,2 @@
+webpackJsonp([0x92b7ae3b5d01],{1283:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDc1",title:"AUTOMATION TESTING Tutorial: Process, Planning & Tools",description:"Manual testing is performed by a human sitting in front of a computer carefully executing the test steps. Automation Testing means using an automation tool to execute your test case suite."}},pathContext:{id:"YXNzaWdubWVudDo4MDc1"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-m-dc-1-a5558bd0ca3c39b24e83.js.map

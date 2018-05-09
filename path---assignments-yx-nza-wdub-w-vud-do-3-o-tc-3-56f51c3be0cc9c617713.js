@@ -1,0 +1,2 @@
+webpackJsonp([0xaaebc49ee7da],{1211:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDo3OTc3",title:"Flu shot ingredients: What they contain and why",description:"Find out what ingredients are in a flu shot and why. We also discuss the benefits, risks, and side effects of flu shots, and who should avoid them."}},pathContext:{id:"YXNzaWdubWVudDo3OTc3"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-o-tc-3-56f51c3be0cc9c617713.js.map

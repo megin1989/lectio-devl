@@ -1,0 +1,2 @@
+webpackJsonp([0xff761301789e],{1172:function(i,o){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NzQ2",title:"Nokia 7 Plus",description:"Checkout the best price to buy Nokia 7 Plus in India. Know full specification of Nokia 7 Plus Mobile Phone along with its features."}},pathContext:{id:"YXNzaWdubWVudDo3NzQ2"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nz-q-2-c2c52b012b66801d14ca.js.map

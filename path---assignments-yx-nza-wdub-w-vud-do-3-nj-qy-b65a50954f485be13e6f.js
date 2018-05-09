@@ -1,0 +1,2 @@
+webpackJsonp([0x7d83641ea127],{1122:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo3NjQy",title:"Keynote Panel: Cybersecurity in the Era of Donald Trump",description:". healthcare information security"}},pathContext:{id:"YXNzaWdubWVudDo3NjQy"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-3-nj-qy-b65a50954f485be13e6f.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([56772148690631],{1343:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MTQ4",title:"HTML Tutorial",description:'<p><span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Aahil Amaan</span></span>‍ <span class="atwho-inserted" data-atwho-at-query="#">#bottle</span>‍ <span class="atwho-inserted" data-atwho-at-query="@"><span id="5">@Jaino Mathew</span></span>‍&nbsp;</p>'}},pathContext:{id:"YXNzaWdubWVudDo4MTQ4"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-mtq-4-6d50d7f78302859dffa8.js.map

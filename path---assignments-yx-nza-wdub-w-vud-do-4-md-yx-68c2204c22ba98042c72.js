@@ -1,0 +1,2 @@
+webpackJsonp([0xc4cc000e903],{1313:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo4MDYx",title:"Glaucoma: Types, causes, and symptoms",description:"We examine the eye disease glaucoma, including the different types, common causes, and symptoms of the condition. Learn more about glaucoma here."}},pathContext:{id:"YXNzaWdubWVudDo4MDYx"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-4-md-yx-68c2204c22ba98042c72.js.map

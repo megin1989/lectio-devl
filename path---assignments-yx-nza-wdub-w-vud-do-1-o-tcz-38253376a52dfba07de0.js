@@ -1,0 +1,2 @@
+webpackJsonp([0x72a312eb0c95],{856:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTcz",title:"Open source memory-centric distributed database, caching, and processing platform - Apache Ignite™",description:"<p>Open source memory-centric distributed database, caching, and processing platform - Apache Ignite™<br></p>"}},pathContext:{id:"YXNzaWdubWVudDo1OTcz"}}}});
+//# sourceMappingURL=path---assignments-yx-nza-wdub-w-vud-do-1-o-tcz-38253376a52dfba07de0.js.map
