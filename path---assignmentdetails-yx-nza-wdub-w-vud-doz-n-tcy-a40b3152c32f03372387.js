@@ -1,0 +1,2 @@
+webpackJsonp([40287600491881],{890:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTcy",title:"Audit Report - April",description:'<p><span style="font-size: 18px;">\ufeff</span><span style="font-size: 18px;"><font face="Times New Roman">Opsfolio monthly audit report, OKR tied social media report, keywords ranking report and Data studio report.</font></span></p>'}},pathContext:{id:"YXNzaWdubWVudDozNTcy"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-tcy-a40b3152c32f03372387.js.map

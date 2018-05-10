@@ -1,2 +1,2 @@
-webpackJsonp([0xddc6948f6c66],{927:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTMy",title:"A Full & Exhaustive Balanced Scorecard Example",description:"<p>A Full &amp; Exhaustive Balanced Scorecard Example - Make aware of<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTMy"}}}});
+webpackJsonp([0xddc6948f6c66],{923:function(a,e){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTMy",title:"A Full & Exhaustive Balanced Scorecard Example",description:"<p>A Full &amp; Exhaustive Balanced Scorecard Example - Make aware of<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTMy"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nt-my-d60d2169180fc92f4a8e.js.map

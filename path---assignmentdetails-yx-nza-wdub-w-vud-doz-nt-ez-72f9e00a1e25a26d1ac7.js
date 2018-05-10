@@ -1,2 +1,2 @@
-webpackJsonp([0xc3ac7f6e3d84],{924:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTEz",title:"Netspective #Lectio",description:"#behavioral‍&nbsp;"}},pathContext:{id:"YXNzaWdubWVudDozNTEz"}}}});
+webpackJsonp([0xc3ac7f6e3d84],{920:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTEz",title:"Netspective #Lectio",description:"#behavioral‍&nbsp;"}},pathContext:{id:"YXNzaWdubWVudDozNTEz"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nt-ez-72f9e00a1e25a26d1ac7.js.map

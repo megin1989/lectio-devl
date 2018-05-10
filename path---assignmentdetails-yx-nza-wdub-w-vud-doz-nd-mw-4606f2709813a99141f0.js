@@ -1,2 +1,2 @@
-webpackJsonp([67893848380716],{898:function(d,e){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDMw",title:"Large size pdf",description:"<p>Large size pdf<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNDMw"}}}});
+webpackJsonp([67893848380716],{894:function(d,e){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDMw",title:"Large size pdf",description:"<p>Large size pdf<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNDMw"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nd-mw-4606f2709813a99141f0.js.map

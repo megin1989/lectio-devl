@@ -1,2 +1,2 @@
-webpackJsonp([19102521097552],{878:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzc1",title:"Citus Health Desktop Admin",description:null}},pathContext:{id:"YXNzaWdubWVudDozMzc1"}}}});
+webpackJsonp([19102521097552],{872:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzc1",title:"Citus Health Desktop Admin",description:null}},pathContext:{id:"YXNzaWdubWVudDozMzc1"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzc-1-0a35694db7156bef65fc.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xc1731d65fb88],{726:function(i,n){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTg=",title:"Qualys Questionnaire Design Tips",description:null}},pathContext:{id:"YXNzaWdubWVudDo1OTg="}}}});
+webpackJsonp([0xc1731d65fb88],{720:function(i,n){i.exports={data:{assignments:{id:"YXNzaWdubWVudDo1OTg=",title:"Qualys Questionnaire Design Tips",description:null}},pathContext:{id:"YXNzaWdubWVudDo1OTg="}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-do-1-o-tg-91b133ae50461e85703d.js.map

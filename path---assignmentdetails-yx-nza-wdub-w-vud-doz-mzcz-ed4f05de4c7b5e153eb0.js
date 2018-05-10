@@ -1,2 +1,2 @@
-webpackJsonp([0xeba84a736237],{881:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzcz",title:"Citus Health Desktop callbell archived messages",description:"archived messages of genny tom"}},pathContext:{id:"YXNzaWdubWVudDozMzcz"}}}});
+webpackJsonp([0xeba84a736237],{875:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzcz",title:"Citus Health Desktop callbell archived messages",description:"archived messages of genny tom"}},pathContext:{id:"YXNzaWdubWVudDozMzcz"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzcz-ed4f05de4c7b5e153eb0.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb9b6ddc03027],{861:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzI4",title:"Workday Q4 beats estimates | ZDNet",description:"<p>Despite the earnings beat, Workday's share slipped slightly after hours.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMzI4"}}}});
+webpackJsonp([0xb9b6ddc03027],{855:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzI4",title:"Workday Q4 beats estimates | ZDNet",description:"<p>Despite the earnings beat, Workday's share slipped slightly after hours.<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMzI4"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mz-i-4-8b87dc32b937c06a6498.js.map
