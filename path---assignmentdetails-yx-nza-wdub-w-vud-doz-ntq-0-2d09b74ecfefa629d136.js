@@ -1,0 +1,2 @@
+webpackJsonp([0xc9aa73253d3c],{965:function(e,i){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTQ0",title:"STLC - Software Testing Life Cycle",description:"Complete life cycle of software testing explained in brief with their activities and deliverable."}},pathContext:{id:"YXNzaWdubWVudDozNTQ0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-ntq-0-2d09b74ecfefa629d136.js.map

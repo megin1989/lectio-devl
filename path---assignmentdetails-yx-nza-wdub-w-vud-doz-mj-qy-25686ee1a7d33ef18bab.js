@@ -1,0 +1,2 @@
+webpackJsonp([87933423008077],{865:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjQy",title:"17 penetration testing tools the pros use",description:"We asked a few professional hackers for their thoughts on the best penetration testing tools. Here's what they said."}},pathContext:{id:"YXNzaWdubWVudDozMjQy"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-qy-25686ee1a7d33ef18bab.js.map

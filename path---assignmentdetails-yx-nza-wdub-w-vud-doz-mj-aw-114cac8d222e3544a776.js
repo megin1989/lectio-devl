@@ -1,0 +1,2 @@
+webpackJsonp([0x63c01fd950ad],{848:function(a,t){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjAw",title:"Nist low controls",description:'<p>Nist low controls <span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Jon Snow</span></span>‍ <span class="atwho-inserted" data-atwho-at-query="@"><span id="1">@Robin Stark</span></span>‍</p><p></p><p><br></p>'}},pathContext:{id:"YXNzaWdubWVudDozMjAw"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-aw-114cac8d222e3544a776.js.map

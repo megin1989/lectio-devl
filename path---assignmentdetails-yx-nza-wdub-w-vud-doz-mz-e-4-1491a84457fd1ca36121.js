@@ -1,0 +1,2 @@
+webpackJsonp([30442609235527],{879:function(a,s){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzE4",title:"Workday Q4 beats estimates | ZDNet",description:'<p>Despite the earnings beat, Workday\'s share slipped slightly after hours. <span class="atwho-inserted" data-atwho-at-query="@"><span id="0">@Aahil Amaan</span></span>‍&nbsp;</p><p><br></p>'}},pathContext:{id:"YXNzaWdubWVudDozMzE4"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mz-e-4-1491a84457fd1ca36121.js.map

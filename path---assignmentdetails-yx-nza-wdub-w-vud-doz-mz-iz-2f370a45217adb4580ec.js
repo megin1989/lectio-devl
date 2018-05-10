@@ -1,0 +1,2 @@
+webpackJsonp([61169728688390],{882:function(a,p){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzIz",title:"Influential Networks",description:'<p>purpose <span class="atwho-inserted" data-atwho-at-query="@"><span id="2">@Jon Snow</span></span>‍&nbsp; <span class="atwho-inserted" data-atwho-at-query="#">#proveitprove</span>‍&nbsp;</p><p></p><p></p>\n'}},pathContext:{id:"YXNzaWdubWVudDozMzIz"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mz-iz-2f370a45217adb4580ec.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa69c5383698a],{927:function(a,n){a.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDE0",title:"Artificial Intelligence",description:'<p>Artificial Intelligence <span class="atwho-inserted" data-atwho-at-query="@"><span id="2">@Jon Snow</span></span>‍&nbsp;<span class="atwho-inserted" data-atwho-at-query="@"><span id="3">@Robin Stark</span></span>‍&nbsp;</p><p></p><p><br></p>\n'}},pathContext:{id:"YXNzaWdubWVudDozNDE0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nde-0-4428019de760d2889c3e.js.map

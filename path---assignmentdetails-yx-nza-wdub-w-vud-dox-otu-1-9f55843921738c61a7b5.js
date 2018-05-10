@@ -1,0 +1,2 @@
+webpackJsonp([0x90d277456d26],{806:function(t,s){t.exports={data:{assignments:{id:"YXNzaWdubWVudDoxOTU1",title:"https://www.rawshorts.com",description:"<p>https://www.rawshorts.com<br></p>"}},pathContext:{id:"YXNzaWdubWVudDoxOTU1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-dox-otu-1-9f55843921738c61a7b5.js.map

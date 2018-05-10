@@ -1,0 +1,2 @@
+webpackJsonp([0xbc1f54f5ae82],{947:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTMw",title:"Getting the Emphasis Right in Quality Assurance Scoring",description:"<p>Getting the Emphasis Right in Quality Assurance Scoring - Purpose to make aware of scoring<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTMw"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nt-mw-9e14cb98f1b7cc15e314.js.map

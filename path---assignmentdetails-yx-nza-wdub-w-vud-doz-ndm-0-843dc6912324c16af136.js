@@ -1,0 +1,2 @@
+webpackJsonp([0xbf91fc2697e4],{933:function(e,d){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDM0",title:"Large size pdf 007",description:"<p>Large size pdf 007<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNDM0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-ndm-0-843dc6912324c16af136.js.map

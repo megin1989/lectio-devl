@@ -1,0 +1,2 @@
+webpackJsonp([0x8f732f2e559f],{917:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDEy",title:"Trojanized BitTorrent Software Update Hijacked 400,000 PCs Last Week",description:"<p>LECT lectio<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNDEy"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nd-ey-f116c191bdbf35b90251.js.map

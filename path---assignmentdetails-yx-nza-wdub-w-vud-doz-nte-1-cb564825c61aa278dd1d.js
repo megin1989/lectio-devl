@@ -1,0 +1,2 @@
+webpackJsonp([67969136105038],{957:function(p,n){p.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTE1",title:"EHRs Help In Reducing Administrative Billing Costs",description:'<p><span class="atwho-inserted" data-atwho-at-query="@aa"><span id="0">@Aahil Amaan</span></span>‍ #sunday&nbsp;&nbsp;&nbsp;&nbsp;</p><p></p><p><br></p><p>#monday&nbsp;&nbsp;&nbsp;&nbsp;</p><p></p><p></p><p></p>'}},pathContext:{id:"YXNzaWdubWVudDozNTE1"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nte-1-cb564825c61aa278dd1d.js.map

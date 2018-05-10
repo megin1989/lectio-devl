@@ -1,0 +1,2 @@
+webpackJsonp([18961842332758],{870:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjY0",title:"Project management life cycle #proveit\\#prove",description:"<p>Good for project managers #lectio”&gt;#lectio<br></p>\n"}},pathContext:{id:"YXNzaWdubWVudDozMjY0"}}}});
+//# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-y-0-4fc7ca48ae2b632f258e.js.map
