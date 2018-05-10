@@ -1,2 +1,2 @@
-webpackJsonp([0x8f347eb46fc7],{840:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozMTgw",title:"Program",description:"<p>fddfdfds&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDozMTgw"}}}});
+webpackJsonp([0x8f347eb46fc7],{821:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozMTgw",title:"Program",description:"<p>fddfdfds&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDozMTgw"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-m-tgw-7eaa08086addfb770a0c.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xb6db0602e7c],{950:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTQy",title:"7 Software Testing Principles",description:"<p>7 Software Testing Principles - Purpose<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTQy"}}}});
+webpackJsonp([0xb6db0602e7c],{929:function(e,t){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTQy",title:"7 Software Testing Principles",description:"<p>7 Software Testing Principles - Purpose<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozNTQy"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nt-qy-d9916a12812e9b304485.js.map

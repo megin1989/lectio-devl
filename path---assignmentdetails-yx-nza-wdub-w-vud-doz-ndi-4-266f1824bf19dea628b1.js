@@ -1,2 +1,2 @@
-webpackJsonp([0xa7863de29af4],{932:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDI4",title:"pdf title",description:"<p>uploading of pdf document</p>"}},pathContext:{id:"YXNzaWdubWVudDozNDI4"}}}});
+webpackJsonp([0xa7863de29af4],{911:function(d,t){d.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDI4",title:"pdf title",description:"<p>uploading of pdf document</p>"}},pathContext:{id:"YXNzaWdubWVudDozNDI4"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-ndi-4-266f1824bf19dea628b1.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([57868660886823],{864:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjQw",title:"Prove IT",description:"<p>Prove IT<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMjQw"}}}});
+webpackJsonp([57868660886823],{845:function(t,o){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjQw",title:"Prove IT",description:"<p>Prove IT<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMjQw"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-qw-b0a3388caa818bcef097.js.map

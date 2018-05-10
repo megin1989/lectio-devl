@@ -1,2 +1,2 @@
-webpackJsonp([69439210527753],{910:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDg3",title:"GraphQL vs. REST – Apollo GraphQL",description:"Two ways to send data over HTTP: What’s the difference?"}},pathContext:{id:"YXNzaWdubWVudDozNDg3"}}}});
+webpackJsonp([69439210527753],{889:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDg3",title:"GraphQL vs. REST – Apollo GraphQL",description:"Two ways to send data over HTTP: What’s the difference?"}},pathContext:{id:"YXNzaWdubWVudDozNDg3"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-n-dg-3-e14ef091633d9b08ebae.js.map

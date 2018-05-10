@@ -1,2 +1,2 @@
-webpackJsonp([55167228310123],{867:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjU4",title:"test",description:"<p>test</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjU4"}}}});
+webpackJsonp([55167228310123],{848:function(t,d){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjU4",title:"test",description:"<p>test</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjU4"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-u-4-eb94c19c39dd1f755bc7.js.map

@@ -1,2 +1,2 @@
-webpackJsonp([0xdb31d2260f6f],{868:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjUw",title:"Get the latest on managing your symptoms, treatment options with Healthy Living.",description:"<p>health article</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjUw"}}}});
+webpackJsonp([0xdb31d2260f6f],{849:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjUw",title:"Get the latest on managing your symptoms, treatment options with Healthy Living.",description:"<p>health article</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjUw"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-uw-d2e3ab659e61b1428641.js.map

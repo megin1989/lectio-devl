@@ -1,2 +1,2 @@
-webpackJsonp([0x968c1ad3ca8b],{960:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTI2",title:"Medical News Today",description:"Medical news and health news headlines posted throughout the day, every day"}},pathContext:{id:"YXNzaWdubWVudDozNTI2"}}}});
+webpackJsonp([0x968c1ad3ca8b],{939:function(e,a){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozNTI2",title:"Medical News Today",description:"Medical news and health news headlines posted throughout the day, every day"}},pathContext:{id:"YXNzaWdubWVudDozNTI2"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-nti-2-364d617c317ad7568d58.js.map

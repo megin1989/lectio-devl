@@ -1,2 +1,2 @@
-webpackJsonp([0x5cbc155999f9],{900:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzc3",title:"The Digital Health Innovators",description:"A community where digital health innovators and futurists come together: https://www.healthcareguys.com"}},pathContext:{id:"YXNzaWdubWVudDozMzc3"}}}});
+webpackJsonp([0x5cbc155999f9],{879:function(t,a){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMzc3",title:"The Digital Health Innovators",description:"A community where digital health innovators and futurists come together: https://www.healthcareguys.com"}},pathContext:{id:"YXNzaWdubWVudDozMzc3"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mzc-3-f95f47e78dc65f1e3451.js.map

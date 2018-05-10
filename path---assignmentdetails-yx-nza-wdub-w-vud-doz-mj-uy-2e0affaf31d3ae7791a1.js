@@ -1,2 +1,2 @@
-webpackJsonp([85492498012408],{869:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjUy",title:"MIT Sloan Artificial Intelligence: Implications for Business Strategy online short course",description:"<p>AI&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjUy"}}}});
+webpackJsonp([85492498012408],{850:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjUy",title:"MIT Sloan Artificial Intelligence: Implications for Business Strategy online short course",description:"<p>AI&nbsp;</p>"}},pathContext:{id:"YXNzaWdubWVudDozMjUy"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-uy-2e0affaf31d3ae7791a1.js.map

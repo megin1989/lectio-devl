@@ -1,2 +1,2 @@
-webpackJsonp([79772817578527],{859:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjMx",title:"Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website",description:"<p>Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMjMx"}}}});
+webpackJsonp([79772817578527],{840:function(t,i){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozMjMx",title:"Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website",description:"<p>Biggest-Ever DDoS Attack (1.35 Tbs) Hits Github Website<br></p>"}},pathContext:{id:"YXNzaWdubWVudDozMjMx"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-mj-mx-8afd69fc211204bf8575.js.map

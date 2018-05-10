@@ -1,2 +1,2 @@
-webpackJsonp([0xbd9d9cd6e458],{841:function(e,n){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMTgx",title:"#Health IT Marketing and PR Conference 2018 Wednesday Pre-Conference Workshops",description:"sdff&nbsp;@Aahil Amaan‍&nbsp;"}},pathContext:{id:"YXNzaWdubWVudDozMTgx"}}}});
+webpackJsonp([0xbd9d9cd6e458],{822:function(e,n){e.exports={data:{assignments:{id:"YXNzaWdubWVudDozMTgx",title:"#Health IT Marketing and PR Conference 2018 Wednesday Pre-Conference Workshops",description:"sdff&nbsp;@Aahil Amaan‍&nbsp;"}},pathContext:{id:"YXNzaWdubWVudDozMTgx"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-m-tgx-1e3e7f78412b86a35e2f.js.map

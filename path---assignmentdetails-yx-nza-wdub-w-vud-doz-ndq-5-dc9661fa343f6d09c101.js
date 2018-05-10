@@ -1,2 +1,2 @@
-webpackJsonp([0xf88f505b8a4b],{937:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDQ5",title:"Netspective Lectio",description:null}},pathContext:{id:"YXNzaWdubWVudDozNDQ5"}}}});
+webpackJsonp([0xf88f505b8a4b],{916:function(t,e){t.exports={data:{assignments:{id:"YXNzaWdubWVudDozNDQ5",title:"Netspective Lectio",description:null}},pathContext:{id:"YXNzaWdubWVudDozNDQ5"}}}});
 //# sourceMappingURL=path---assignmentdetails-yx-nza-wdub-w-vud-doz-ndq-5-dc9661fa343f6d09c101.js.map
